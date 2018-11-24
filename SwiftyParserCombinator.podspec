@@ -3,8 +3,8 @@ Pod::Spec.new do |s|
     # 1
     s.platform = :ios
     s.ios.deployment_target = '9.0'
-    s.name = "SwiftParserCombinator"
-    s.summary = "SwiftParserCombinator is a swift implementation of functional idea."
+    s.name = "SwiftyParserCombinator"
+    s.summary = "SwiftyParserCombinator is a swift implementation of functional idea."
     s.requires_arc = true
     
     # 2
