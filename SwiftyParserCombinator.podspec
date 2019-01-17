@@ -4,11 +4,11 @@ Pod::Spec.new do |s|
     s.platform = :ios
     s.ios.deployment_target = '9.0'
     s.name = "SwiftyParserCombinator"
-    s.summary = "SwiftyParserCombinator is a swift implementation of functional idea."
+    s.summary = "SwiftyParserCombinator is a swift implementation of functional idea for parsing raw string into client structure."
     s.requires_arc = true
     
     # 2
-    s.version = "1.0"
+    s.version = "1.1"
     
     # 3
     s.license = { :type => "MIT", :file => "LICENSE" }
