@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		28295E5C21F0B6E500CD11CB /* EmptyLineTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28295E5B21F0B6E500CD11CB /* EmptyLineTests.swift */; };
 		85253C9220710D240039ABA1 /* ParserCombinator.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 85253C8820710D240039ABA1 /* ParserCombinator.framework */; };
 		85253C9720710D240039ABA1 /* LabelSetterTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85253C9620710D240039ABA1 /* LabelSetterTests.swift */; };
 		85253C9920710D240039ABA1 /* ParserCombinator.h in Headers */ = {isa = PBXBuildFile; fileRef = 85253C8B20710D240039ABA1 /* ParserCombinator.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -39,6 +40,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		28295E5B21F0B6E500CD11CB /* EmptyLineTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmptyLineTests.swift; sourceTree = "<group>"; };
 		85253C8820710D240039ABA1 /* ParserCombinator.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = ParserCombinator.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		85253C8B20710D240039ABA1 /* ParserCombinator.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ParserCombinator.h; sourceTree = "<group>"; };
 		85253C8C20710D240039ABA1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -130,6 +132,7 @@
 				85E2156420714FC8002C23C8 /* ParserSTLIBTests.swift */,
 				85E2156620715033002C23C8 /* TestExtension.swift */,
 				85E21568207157C6002C23C8 /* ParserMonadTests.swift */,
+				28295E5B21F0B6E500CD11CB /* EmptyLineTests.swift */,
 			);
 			path = ParserCombinatorTests;
 			sourceTree = "<group>";
@@ -267,6 +270,7 @@
 				85253CB720710E7E0039ABA1 /* TestExtensions.swift in Sources */,
 				85253CB9207116270039ABA1 /* BasicCombinatorsTests.swift in Sources */,
 				85E2156520714FC8002C23C8 /* ParserSTLIBTests.swift in Sources */,
+				28295E5C21F0B6E500CD11CB /* EmptyLineTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
